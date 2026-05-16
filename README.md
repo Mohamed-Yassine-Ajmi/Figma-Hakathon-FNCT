@@ -1,5 +1,5 @@
 
-  # fIGMA Hakathon FNCT
+  # FIGMA Hakathon FNCT
 
   This is a code bundle for Untitled. The original project is available at https://www.figma.com/design/NXUNEWovt9y3bBiyPpkj3q/Untitled.
 
